@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<?import javafx.scene.control.Label?>
+<?import javafx.scene.layout.VBox?>
+
+
+<VBox alignment="TOP_CENTER" prefHeight="70.0" prefWidth="70.0" style="-fx-border-color: black;" xmlns="http://javafx.com/javafx/23.0.1" xmlns:fx="http://javafx.com/fxml/1" fx:controller="com.example.monopoly2.PlaceController">
+   <children>
+      <Label fx:id="placeName" alignment="TOP_CENTER" text="Name" />
+      <Label fx:id="placePrice" alignment="TOP_CENTER" layoutX="10.0" layoutY="10.0" text="Price" />
+      <Label fx:id="placeColl" alignment="TOP_CENTER" layoutX="10.0" layoutY="28.0" text="Collection" />
+   </children>
+</VBox>
