@@ -1,6 +1,7 @@
 # MonopolyFX
 
 MonopolyFX is a JavaFX-based implementation of the classic Monopoly board game. It provides a simple interactive GUI and game logic to simulate the Monopoly experience.
+Made back in November 2024
 
 ## Features
 - JavaFX-based graphical user interface
